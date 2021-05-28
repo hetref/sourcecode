@@ -4,3 +4,17 @@
     margin: 0;
     padding: 0;
 }
+
+.linkbackground {
+    background-color: #1eff00;
+    padding: .5rem;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+}
+
+.linkbackground a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 500;
+}
